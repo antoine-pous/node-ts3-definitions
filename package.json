@@ -1,0 +1,17 @@
+{
+  "name": "@ts3/definitions",
+  "version": "1.0.0",
+  "description": "Definitions used by the TeamSpeak 3 Server",
+  "main": "lib/definitions.js",
+  "types": "lib/definitions.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antoine Pous",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.3"
+  },
+  "dependencies": {}
+}
